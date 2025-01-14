@@ -49,19 +49,10 @@ The world *literally* runs on them.
 [%step]
 image:assets/server-os-share.png[]
 
-=== It ensures your right to repair
+=== *_You_* are in control
 
-====
-Android:
-
-* GrapheneOS
-* CalyxOS
-* LineageOS
-====
-
-====
-Desktop:
-
-* Linux distributions
-* BSD distributions
-====
+[%step]
+* Software support, forever
+* Don't like something? Change it
+* Avoid vendor lock-in
+* Control your data
