@@ -44,7 +44,7 @@ Significance
 === So what?
 
 [%step]
-The world *literally* runs on them.
+The world *literally* runs on free software.
 
 [%step]
 image:assets/server-os-share.png[]
@@ -56,3 +56,26 @@ image:assets/server-os-share.png[]
 * Don't like something? Change it
 * Avoid vendor lock-in
 * Control your data
+
+=== Non-free software often can't even compete
+Just look at `ffmpeg`
+
+image::assets/ffmpeg-codecs.png[,,100]
+
+=== or
+
+`yt-dlp`
+
+https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
+
+`pandoc`
+
+https://pandoc.org/index.html
+
+`Blender`
+
+https://www.blender.org/
+
+`Godot Engine`
+
+https://godotengine.org
