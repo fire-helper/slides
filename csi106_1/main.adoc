@@ -4,6 +4,7 @@
 :revealjs_width: 1664
 :revealjs_height: 936
 :revealjs_pdfseparatefragments: false
+:revealjsdir: ../node_modules/reveal.js
 
 = About free software
 Group 4
@@ -44,7 +45,7 @@ Significance
 === So what?
 
 [%step]
-The world *literally* runs on free software.
+The world *literally* runs on free software
 
 [%step]
 image:assets/server-os-share.png[]
@@ -108,7 +109,7 @@ The more people know, the better
 
 == Appendix
 
-This presentation is FLOSS, made with FLOSS software.
+This presentation is FLOSS, made with FLOSS software
 
 https://github.com/fire-helper/slides
 
