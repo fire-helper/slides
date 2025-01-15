@@ -52,7 +52,7 @@ image:assets/server-os-share.png[]
 === *_You_* are in control
 
 [%step]
-* Software support, forever
+* Right to repair
 * Don't like something? Change it
 * Avoid vendor lock-in
 * Control your data
@@ -79,3 +79,37 @@ https://www.blender.org/
 `Godot Engine`
 
 https://godotengine.org
+
+== Part 3
+Practicality (and how you can help)
+
+=== There isn't always alternatives
+
+image::assets/wilber-big.png[]
+
+GIMP can't replace Photoshop
+
+=== Your hardware also isn't libre
+...and there's not much we can do about that ):
+
+=== Easy thing to do
+
+image::assets/firefox-logo.png[,300,300]
+
+instead of
+
+image::assets/chrome-logo.svg[Static,300]
+
+=== Spread the word!
+
+The more people know, the better
+
+== Q&A
+
+== Appendix
+
+This presentation is FLOSS, made with FLOSS software.
+
+https://github.com/fire-helper/slides
+
+image::assets/slide-qr.svg[Static,600]
