@@ -32,7 +32,7 @@ Software that respects the user's computing freedom
 === The four freedoms
 
 1. To run software for any purpose.
-2. To study and change its source code.
+2. To study and change source code.
 3. To redistribute copies.
 4. To distribute modified copies.
 
@@ -104,6 +104,8 @@ image::assets/chrome-logo.svg[Static,300]
 === Spread the word!
 
 The more people know, the better
+
+https://fsf.org
 
 == Q&A
 

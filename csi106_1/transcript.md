@@ -4,14 +4,17 @@
 
 The first question I would like to ask is: "what do YOU think is free software?"
 
-(Wait for the audience)
+(Audience answers (or move on if no one answers))
+
 (Reveal "respects the user's freedom")
 
 (ADLIB: depending on the answer)
 - IF the audience answers something like "not paid"
+
 That's correct, however, there is another meaning to the word "free" .....
 
 - IF the audience answers something like "freedom"
+
 That's correct, indeed, "free software" means software without restrictions.
 
 To differentiate between the 2 meanings of the word, we usually use 2 distinct words instead:
@@ -29,6 +32,7 @@ This is a French or Spanish word, meaning "free from difficulty and obstacles".
 When we say software is libre, we mean that software does not restrict or mistreat the user in any way.
 
 (Stress this part below, it's important)
+
 Do note however, that libre software ***DOES NOT*** automatically make it gratis. Libre software ***can*** be paid, as long as they follow the 4 freedoms of free software.
 
 ("Four freedoms" slide)
@@ -37,7 +41,7 @@ The [Free Software Foundation](https://fsf.org), the pioneer of the Free Softwar
 - The freedom to run software as you wish, without restrictions
 - The freedom to study, analyze, change, modify software, without restrictions
 - The freedom to redistribute copies of software, without restrictions
-- The freedom to distributed modified versions of software, without restrictions
+- The freedom to distribute modified versions of software, without restrictions
 
 If a piece of software satisfies these 4 freedoms, they are libre.
 
@@ -50,6 +54,7 @@ Free software can be paid, can cost money, as long as they can satisfy these fre
 After listening through all that, you may be asking yourself: "So what? Why should I care?"
 
 (Reveal "the world" text)
+
 (Reveal chart)
 
 The reason I think you should care is that the world literally runs on free software.
@@ -61,14 +66,17 @@ Linux is, indeed, free, libre, open source software, made possible by the contri
 ("You are in control" slide)
 
 (Reveal "right to repair")
+
 Furthermore, simply by being open source, you can benefit from a community forever.
 
 A 10 year old phone may be unsupported by the company that made it, but with a community around the open source software, that phone can continue enjoying updates.
 
 (Reveal "change it!")
+
 If you don't like something about an app, change it yourself, and contribute it back.
 
 (Reveal the last 2 lines)
+
 Libre software means they are developed upon open standards. That makes your data portable.
 
 This means you can bring your data anywhere, instead of being locked into a specific company's ecosystem.
@@ -97,7 +105,7 @@ Godot Engine: libre game engine. Lightweight, full-featured, and free!
 
 ("GIMP" slide)
 
-But of course, free software means mostly unpaid, thankless work. And there aren't always alternatives to non-free software.
+But of course, free software means mostly unpaid, thankless work. And there isn't always alternatives to non-free software.
 
 GIMP is often mentioned as a libre alternative to Photoshop, but that really isn't the case in reality.
 
@@ -109,7 +117,7 @@ So, not many software other than Photoshop can open those files.
 
 Your hardware also isn't libre. The CPU, the mainboard, the GPU, the keyboard, the lights, the firmware, the drivers often aren't free.
 
-There isn't much we can do though. Corporations intentionally prevent people from reverse-engineering their hardware, so no one can write libre drivers for them.
+There isn't much we can do. Corporations intentionally prevent people from reverse-engineering their hardware, so no one can write libre drivers for them.
 
 ("Easy thing to do" slide)
 
