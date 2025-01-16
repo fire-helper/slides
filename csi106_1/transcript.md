@@ -29,11 +29,13 @@ But the meaning we are talking about is actually "libre".
 
 This is a French or Spanish word, meaning "free from difficulty and obstacles".
 
-When we say software is libre, we mean that software does not restrict or mistreat the user in any way.
+When we say software is *libre*, we mean that software does not restrict or mistreat the user in any way.
 
 (Stress this part below, it's important)
 
-Do note however, that libre software ***DOES NOT*** automatically make it gratis. Libre software ***can*** be paid, as long as they follow the 4 freedoms of free software.
+Do note however, that libre software ***DOES NOT*** automatically make it gratis. 
+
+Libre software ***can*** be paid, as long as they follow the 4 freedoms of free software.
 
 ("Four freedoms" slide)
 
@@ -45,7 +47,7 @@ The [Free Software Foundation](https://fsf.org), the pioneer of the Free Softwar
 
 If a piece of software satisfies these 4 freedoms, they are libre.
 
-Free software can be paid, can cost money, as long as they can satisfy these freedoms.
+So, Free software can be paid, can cost money, as long as they can satisfy these freedoms.
 
 # PART 2
 
