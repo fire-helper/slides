@@ -48,7 +48,7 @@ The [Free Software Foundation](https://fsf.org), the pioneer of the Free Softwar
 
 If a piece of software satisfies these 4 freedoms, they are *libre*.
 
-Ok so now you all know what is free software? Free software can be paid, can cost money, as long as they can satisfy these freedoms.
+So, free software can be paid, can cost money, as long as they can satisfy these freedoms.
 
 # PART 2
 
