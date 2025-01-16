@@ -15,13 +15,13 @@ That's correct, however, there is another meaning to the word "free" .....
 
 - IF the audience answers something like "freedom"
 
-That's correct, indeed, "free software" means software without restrictions.
+That's correct, indeed, "free software" means **software without restrictions**.
 
-To differentiate between the 2 meanings of the word, we usually use 2 distinct words instead:
+To differentiate between the 2 meanings of the word, we usually use *2 distinct words* instead:
 
 ("Gratis" slide)
 
-Gratis, means free as in not paid, no cost, no money.
+**Gratis**, means free as in not paid, no cost, no money.
 
 But the meaning we are talking about is actually "libre".
 
@@ -29,25 +29,25 @@ But the meaning we are talking about is actually "libre".
 
 This is a French or Spanish word, meaning "free from difficulty and obstacles".
 
-When we say software is *libre*, we mean that software does not restrict or mistreat the user in any way.
+When we say software is *libre*, we mean that software **does not restrict** or **mistreat** the user in any way.
 
 (Stress this part below, it's important)
 
 Do note however, that libre software ***DOES NOT*** automatically make it gratis. 
 
-Libre software ***can*** be paid, as long as they follow the 4 freedoms of free software.
+Libre software ***can*** be paid, as long as they follow **the 4 freedoms** of free software.
 
 ("Four freedoms" slide)
 
-The [Free Software Foundation](https://fsf.org), the pioneer of the Free Software Movement, has established the 4 core freedoms:
+The [Free Software Foundation](https://fsf.org), the pioneer of the Free Software Movement, has established the *4 core freedoms*:
 - The freedom to run software as you wish, without restrictions
 - The freedom to study, analyze, change, modify software, without restrictions
 - The freedom to redistribute copies of software, without restrictions
 - The freedom to distribute modified versions of software, without restrictions
 
-If a piece of software satisfies these 4 freedoms, they are libre.
+If a piece of software satisfies these 4 freedoms, they are *libre*.
 
-So, Free software can be paid, can cost money, as long as they can satisfy these freedoms.
+Ok so now you all know what is free software? Free software can be paid, can cost money, as long as they can satisfy these freedoms.
 
 # PART 2
 
