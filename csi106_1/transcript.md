@@ -26,7 +26,7 @@ To differentiate between the 2 meanings of the word, we usually use *2 distinct 
 
 But the meaning we are talking about is actually "libre".
 
-("Libre" slide)
+*("Libre" slide)*
 
 This is a French or Spanish word, meaning "free from difficulty and obstacles".
 
