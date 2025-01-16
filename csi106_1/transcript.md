@@ -2,7 +2,7 @@
 
 # PART 1
 
-Hello, everyone. Today, our Team will presentation "Free Software" Topic.
+Hello, everyone. Today, our Team will presentation the "Free Software" Topic.
 The first question I would like to ask is: "what do YOU think is free software?"
 
 (Audience answers (or move on if no one answers))
