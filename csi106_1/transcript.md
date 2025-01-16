@@ -2,8 +2,8 @@
 
 # PART 1
 
-Hello everyone today our team would like to talk about free software.
-The first question I would like to ask is: "what do YOU think is free software?"
+Hello everyone, today our team would like to talk about free software.
+The first question I would like to ask is: "What do YOU think is free software?"
 
 *(Audience answers (or move on if no one answers))*
 
@@ -28,9 +28,9 @@ But the meaning we are talking about is actually "libre".
 
 *("Libre" slide)*
 
-This is a French or Spanish word, meaning "free from difficulty and obstacles".
+**Libre** is a French or Spanish word, meaning "free from difficulty and obstacles".
 
-When we say software is *libre*, we mean that software **does not restrict** or **mistreat** the user in any way.
+When we say software is *libre*, we mean that software **does not restrict** or **mistreat** the user in anyway.
 
 *(Stress this part below, it's important)*
 
