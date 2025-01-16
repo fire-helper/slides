@@ -5,22 +5,22 @@
 Hello everyone today our team would like to talk about free software.
 The first question I would like to ask is: "what do YOU think is free software?"
 
-(Audience answers (or move on if no one answers))
+*(Audience answers (or move on if no one answers))*
 
-(Reveal "respects the user's freedom")
+*(Reveal "respects the user's freedom")*
 
-(ADLIB: depending on the answer)
-- IF the audience answers something like "not paid"
+*(ADLIB: depending on the answer)*
+- *IF the audience answers something like "not paid"*
 
 That's correct, however, there is another meaning to the word "free" .....
 
-- IF the audience answers something like "freedom"
+- *IF the audience answers something like "freedom"*
 
 That's correct, indeed, "free software" means **software without restrictions**.
 
 To differentiate between the 2 meanings of the word, we usually use *2 distinct words* instead:
 
-("Gratis" slide)
+*("Gratis" slide)*
 
 **Gratis**, means free as in not paid, no cost, no money.
 
@@ -32,13 +32,13 @@ This is a French or Spanish word, meaning "free from difficulty and obstacles".
 
 When we say software is *libre*, we mean that software **does not restrict** or **mistreat** the user in any way.
 
-(Stress this part below, it's important)
+*(Stress this part below, it's important)*
 
-Do note however, that libre software ***DOES NOT*** automatically make it gratis. 
+Do note however, that libre software ***DOES NOT*** automatically make it **gratis**. 
 
 Libre software ***can*** be paid, as long as they follow **the 4 freedoms** of free software.
 
-("Four freedoms" slide)
+*("Four freedoms" slide)*
 
 The [Free Software Foundation](https://fsf.org), the pioneer of the Free Software Movement, has established the *4 core freedoms*:
 - The freedom to run software as you wish, without restrictions
