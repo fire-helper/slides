@@ -2,7 +2,7 @@
 
 # PART 1
 
-Hello, everyone. Today our group would like to talk about free software.
+Hello, everyone. Today our group are gonna talk about free software.
 The first question I would like to ask is: "What do YOU think is free software?"
 
 *(Audience answers (or move on if no one answers))*
