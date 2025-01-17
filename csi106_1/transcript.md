@@ -2,7 +2,7 @@
 
 # PART 1
 
-Hello everyone, today our team would like to talk about free software.
+Hello, everyone. Today our group would like to talk about free software.
 The first question I would like to ask is: "What do YOU think is free software?"
 
 *(Audience answers (or move on if no one answers))*
@@ -34,7 +34,7 @@ When we say software is *libre*, we mean that software **does not restrict** or 
 
 *(Stress this part below, it's important)*
 
-Do note however, that libre software ***DOES NOT*** automatically make it **gratis**. 
+Do note, however, that libre software ***DOES NOT*** automatically make it **gratis**. 
 
 Libre software ***can*** be paid, as long as they follow **the 4 freedoms** of free software.
 
