@@ -91,6 +91,7 @@ image::assets/wilber-big.png[]
 GIMP can't replace Photoshop
 
 === Your hardware also isn't libre
+
 ...and there's not much we can do about that ):
 
 === Easy thing to do
@@ -111,7 +112,7 @@ https://fsf.org
 
 == Appendix
 
-This presentation is FLOSS, made with FLOSS software
+This presentation is FLOSS, made with FLOSS
 
 https://github.com/fire-helper/slides
 
