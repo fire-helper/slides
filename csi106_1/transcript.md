@@ -40,7 +40,7 @@ Libre software ***can*** be paid, as long as they follow **the 4 freedoms** of f
 
 *("Four freedoms" slide)*
 
-The [Free Software Foundation](https://fsf.org), the pioneer of the Free Software Movement, has established the *4 core freedoms*:
+The [Free Software Foundation](https://fsf.org) which is the pioneer of the Free Software Movement, has established the *4 core freedoms*:
 - The freedom to run software as you wish, without restrictions
 - The freedom to study, analyze, change, modify software, without restrictions
 - The freedom to redistribute copies of software, without restrictions
