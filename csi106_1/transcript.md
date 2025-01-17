@@ -108,9 +108,9 @@ Godot Engine: libre game engine. Lightweight, full-featured, and free!
 
 ("GIMP" slide)
 
-But of course, free software means mostly unpaid, thankless work. And there isn't always alternatives to non-free software.
+There isn't always alternatives to non-free software.
 
-GIMP is often mentioned as a libre alternative to Photoshop, but that really isn't the case in reality.
+(For example, ) GIMP is often mentioned as a libre alternative to Photoshop, but that really isn't the case in reality.
 
 The PSD file format that Photoshop uses is non-free, closed, owned by Adobe only.
 
@@ -118,9 +118,13 @@ So, not many software other than Photoshop can open those files.
 
 ("Hardware" slide)
 
-Your hardware also isn't libre. The CPU, the mainboard, the GPU, the keyboard, the lights, the firmware, the drivers often aren't free.
+Your hardware also isn't libre.
 
-There isn't much we can do. Corporations intentionally prevent people from reverse-engineering their hardware, so no one can write libre drivers for them.
+The CPU, the mainboard, the GPU, the keyboard, the lights, the firmware, the drivers often aren't free.
+
+There isn't much we can do.
+
+Reverse-engineering hardware is difficult, so not many people can write libre drivers for them.
 
 ("Easy thing to do" slide)
 
