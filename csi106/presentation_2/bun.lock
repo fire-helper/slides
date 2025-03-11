@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "reveal.js": "^5.1.0",
+      },
+    },
+  },
+  "packages": {
+    "reveal.js": ["reveal.js@5.1.0", "", {}, "sha512-KDt7m0+xwKV6nAZt4CNPVFBf42sTKRQapg0bGGKB5PKO5XvChnMfwlZkybydHiQJ7p5+6LbHKRGrhXODdoNIaA=="],
+  }
+}
