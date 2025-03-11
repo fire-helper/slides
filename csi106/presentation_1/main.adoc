@@ -4,7 +4,7 @@
 :revealjs_width: 1664
 :revealjs_height: 936
 :revealjs_pdfseparatefragments: false
-:revealjsdir: ../node_modules/reveal.js
+:revealjsdir: ./node_modules/reveal.js
 
 = About free software
 Group 4
