@@ -22,7 +22,7 @@ cryptography** and **Asymmetric cryptography**.
 
 ## Symmetric cryptography
 
-Symmetric cryptography shares one common ***secret***.
+Symmetric cryptography shares one common ***secret key***.
 
 > Qua cái slide illustration plaintext document/encrypted document
 
