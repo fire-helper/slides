@@ -4,7 +4,7 @@
 
 > Ceremonial introduction here "Hello everyone" blah blah
 
-We bring to you a short presentation about **asymmetric cryptography**.
+Hello everyone. Today, our team will bring to you a short presentation about **asymmetric cryptography**.
 
 ## Cryptography?
 
@@ -13,12 +13,12 @@ But before that, we have to know what cryptography even *is*.
 In **very** simple terms, *cryptography* is the field of research on
 how to *conceal messages through ciphers*.
 
-Here's a very simple cipher: the Caesar cipher. By applying the Caesar
+Here's a very simple cipher called the Caesar cipher. By applying the Caesar
 cipher, the **plaintext** "Hello, world!" is converted into this
 **ciphertext**.
 
-Cryptography is broadly divided into 2 categories: **Symmetric
-cryptography** and **Asymmetric cryptography**.
+Cryptography is broadly divided into 2 categories: 
+**Symmetric cryptography** and **Asymmetric cryptography**.
 
 ## Symmetric cryptography
 
@@ -37,8 +37,7 @@ same key.
 
 > Move to last slide of section
 
-However, this poses a problem: how do you **share** this secret
-***securely***?
+However, this poses a problem: how do you **share** this secret ***securely***?
 
 The solution: you simply don't share any secrets at all!
 
