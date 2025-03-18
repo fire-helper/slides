@@ -40,21 +40,21 @@
 	<g id="alicePublic">
 		<use xlink:href="#greenKey"/>
 		<switch><text x="28" y="32" font-size="20" font-weight="bold" font-family="DejaVu Sans" fill="white" stroke="green" id="trsvg17"><tspan id="trsvg3">A</tspan></text></switch>
-		<switch><text x="48" y="26" font-size="12" font-weight="bold" font-family="DejaVu Sans" fill="white" id="trsvg18-pt-br" systemLanguage="pt-br"><tspan id="trsvg4-pt-br">Pública</tspan></text><text x="48" y="26" font-size="12" font-weight="bold" font-family="DejaVu Sans" fill="white" id="trsvg18"><tspan id="trsvg4">Public</tspan></text></switch>
+		<switch><text x="48" y="26" font-size="12" font-weight="bold" font-family="DejaVu Sans" fill="white" id="trsvg18-pt-br" systemLanguage="pt-br"><tspan id="trsvg4-pt-br">Pï¿½blica</tspan></text><text x="48" y="26" font-size="12" font-weight="bold" font-family="DejaVu Sans" fill="white" id="trsvg18"><tspan id="trsvg4">Public</tspan></text></switch>
 	</g>
 	<g id="randomNumberBox">
 		<rect width="100" height="48" fill="blue" fill-opacity="0.3" stroke="blue" stroke-width="2"/>
 		<switch><text x="0" y="14" font-size="16" font-family="DejaVu Sans Mono" fill="blue" fill-opacity="0.3" id="trsvg19"><tspan id="trsvg5">0110101010</tspan></text></switch>
 		<switch><text x="0" y="30" font-size="16" font-family="DejaVu Sans Mono" fill="blue" fill-opacity="0.3" id="trsvg20"><tspan id="trsvg6">1101110100</tspan></text></switch>
 		<switch><text x="0" y="46" font-size="16" font-family="DejaVu Sans Mono" fill="blue" fill-opacity="0.3" id="trsvg21"><tspan id="trsvg7">0011011010</tspan></text></switch>
-		<switch><text x="25" y="13" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg22-pt-br" systemLanguage="pt-br"><tspan id="trsvg8-pt-br">número</tspan></text><text x="25" y="13" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg22"><tspan id="trsvg8">Large</tspan></text></switch>
-		<switch><text x="15" y="29" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg23-pt-br" systemLanguage="pt-br"><tspan id="trsvg9-pt-br">aleatório</tspan></text><text x="15" y="29" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg23"><tspan id="trsvg9">random</tspan></text></switch>
+		<switch><text x="25" y="13" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg22-pt-br" systemLanguage="pt-br"><tspan id="trsvg8-pt-br">nï¿½mero</tspan></text><text x="25" y="13" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg22"><tspan id="trsvg8">Large</tspan></text></switch>
+		<switch><text x="15" y="29" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg23-pt-br" systemLanguage="pt-br"><tspan id="trsvg9-pt-br">aleatï¿½rio</tspan></text><text x="15" y="29" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg23"><tspan id="trsvg9">random</tspan></text></switch>
 		<switch><text x="15" y="45" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg24-pt-br" systemLanguage="pt-br"><tspan id="trsvg10-pt-br">grande</tspan></text><text x="15" y="45" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg24"><tspan id="trsvg10">number</tspan></text></switch>
 	</g>
 	<g id="keyGeneratorBox">
 		<rect width="100" height="48" fill="orange" fill-opacity="0.3" stroke="orange" stroke-width="2"/>
 		<switch><text x="33" y="13" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg25-pt-br" systemLanguage="pt-br"><tspan id="trsvg11-pt-br">programa</tspan></text><text x="33" y="13" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg25"><tspan id="trsvg11">Key</tspan></text></switch>
-		<switch><text x="1" y="29" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg26-pt-br" systemLanguage="pt-br"><tspan id="trsvg12-pt-br">de geração</tspan></text><text x="1" y="29" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg26"><tspan id="trsvg12">generation</tspan></text></switch>
+		<switch><text x="1" y="29" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg26-pt-br" systemLanguage="pt-br"><tspan id="trsvg12-pt-br">de geraï¿½ï¿½o</tspan></text><text x="1" y="29" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg26"><tspan id="trsvg12">generation</tspan></text></switch>
 		<switch><text x="12" y="45" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg27-pt-br" systemLanguage="pt-br"><tspan id="trsvg13-pt-br">de chaves</tspan></text><text x="12" y="45" font-size="16" font-weight="bold" font-family="DejaVu Sans" id="trsvg27"><tspan id="trsvg13">program</tspan></text></switch>
 	</g>
 	<marker id="triangle" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="10" refY="5" orient="auto" markerWidth="10" markerHeight="10">

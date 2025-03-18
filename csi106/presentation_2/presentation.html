@@ -17,7 +17,7 @@
     }
 
     * {
-      font-family: "Atkinson Hyperlegible Next" !important;
+      font-family: "Atkinson Hyperlegible Next";
     }
   </style>
 </head>
@@ -113,10 +113,10 @@
         </section>
 
         <section>
-          <p><span style="color: green;">Public</span> key encrypt -> <span style="color: red;">Private</span> key
+          <p><span style="color: green;;">Public</span> key encrypt <span style="font-family: Fira Code;">-></span> <span style="color: red;">Private</span> key
             decrypt</p>
 
-          <p><span style="color: red;">Private</span> key encrypt -> <span style="color: green;">Public</span> key
+          <p><span style="color: red;">Private</span> key encrypt <span style="font-family: Fira Code;">-></span> <span style="color: green;">Public</span> key
             decrypt</p>
         </section>
 
@@ -147,6 +147,11 @@
           <img src="assets/padlock.png" style="width: 90%;">
         </section>
       </section>
+
+      <section>
+        <section><h2>Thanks for listening</h2></section>
+        <section><h1>Q&A</h1></section>
+      </section>
     </div>
   </main>
 
@@ -157,6 +162,7 @@
     Reveal.initialize({
       hash: true,
       pdfSeparateFragments: false,
+      controls: false,
       plugins: [RevealMarkdown],
     })
   </script>
